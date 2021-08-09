@@ -118,51 +118,51 @@ var artistWork = {
   Books: [
     {
       art: "Mexican gothic",
-      details: "Goodreads 3.7/5",
+      details: "Goodreads rating 3.7/5",
       imgUrl: "https://images-na.ssl-images-amazon.com/images/I/61VjdedT6ML.jpg"
     },
     {
       art: "The Southern Book Club's Guide to Slaying Vampires",
-      details: "Goodreads 3.8/5",
+      details: "Goodreads rating 3.8/5",
       imgUrl:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vjSHubsKOL-FU-fvd9Nvg1_sAWlVcgzxWQ&usqp=CAU"
     },
     {
       art: "If It Bleeds",
-      details: "Goodreads 4/5",
+      details: "Goodreads rating 4/5",
       imgUrl:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1tAd3w4IIxgG-Rgpn0TdSBd3dxqnvSjB4Kg&usqp=CAU"
     },
     {
       art: "The Year of the Witching",
-      details: "Goodreads 3.8/5",
+      details: "Goodreads rating 3.8/5",
       imgUrl:
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576699031l/49789629.jpg"
     },
     {
       art: "The Only Good Indians",
-      details: "Goodreads 3.8/5",
+      details: "Goodreads rating 3.8/5",
       imgUrl:
         "https://media.titanbooks.com/catalog/products/OnlyGoodIndians.jpg"
     },
     {
       art: "Devolution: A Firsthand Account of the Rainier Sasquatch Massacre",
-      details: "Goodreads 3.9/5",
+      details: "Goodreads rating 3.9/5",
       imgUrl: "https://m.media-amazon.com/images/I/51QBoRpApkL.jpg"
     },
     {
       art: "Survivor Song",
-      details: "Goodreads 3.8/5",
+      details: "Goodreads rating 3.8/5",
       imgUrl: "https://images-na.ssl-images-amazon.com/images/I/817ZqUvcuZL.jpg"
     },
     {
       art: "Malorie",
-      details: "Goodreadse 3.8/5",
+      details: "Goodreads rating 3.8/5",
       imgUrl: "https://images-na.ssl-images-amazon.com/images/I/81VyKG8JUbL.jpg"
     },
     {
       art: "Lakewood",
-      details: "Goodreads 3.5/5",
+      details: "Goodreads rating 3.5/5",
       imgUrl: "https://images-na.ssl-images-amazon.com/images/I/81xzH8-6+yL.jpg"
     }
   ]
