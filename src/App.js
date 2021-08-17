@@ -12,8 +12,9 @@ var artistWork = {
       art: "Conjuring(2013)",
       details: "IMDb rating: 7.5/10",
       imgUrl:
-        "https://www.joblo.com/assets/images/oldsite/posters/images/full/the-conjuring-poster01_thumb.jpg"
+        "https://houseofmysterioussecrets.com/images/product/Item73517M.jpg.jpg"
     },
+
     {
       art: "Conjuring2(2016)",
       details: "IMDb rating: 7.3/10",
