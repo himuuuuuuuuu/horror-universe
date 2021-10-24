@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./styles.css";
 
+// data base
 var artistWork = {
   Movies: [
     {
@@ -229,11 +230,11 @@ var artistWork = {
 };
 
 export default function App() {
+  //setting initial value as Movies
   var [artists, setArtists] = useState("Movies");
+  // event handler
   function clickHandler(event) {
     setArtists(event);
-    // var meaning = artistWork[buttonClick];
-    // console.log(meaning);
   }
   return (
     <div className="App">
@@ -246,6 +247,8 @@ export default function App() {
           </h2>
         </div>
 
+        {/* converting object into array to access by index */}
+        {/* artistWork = [Movies , Series , Books] after converting in array */}
         {Object.keys(artistWork).map((event) => {
           if (artists === event) {
             return (
